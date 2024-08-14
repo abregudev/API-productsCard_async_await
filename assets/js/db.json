@@ -1,0 +1,120 @@
+{
+    "insumos": {
+        "insumos_DTF": [
+            {
+                "photo_general": "https://png.pngtree.com/thumb_back/fw800/background/20230424/pngtree-many-colorful-dyes-suspended-in-a-dark-background-image_2496031.jpg"
+            },
+            {
+                "nombre": "Tinta black 1lt",
+                "imagen": "https://i.postimg.cc/PJprbZJk/tinta-black-1litro.png"
+            },
+            {
+                "nombre": "Tinta cyan 1lt",
+                "imagen": "https://i.postimg.cc/BZr1YQ0C/tinta-cyan-1litro.png"
+            },
+            {
+                "nombre": "Tinta magenta 1lt",
+                "imagen": "https://i.postimg.cc/T3Y2QZp9/tinta-magenta-1litro.png"
+            },
+            {
+                "nombre": "Tinta yellow 1lt",
+                "imagen": "https://i.postimg.cc/vTtMtzyk/tinta-yellow-1litro.png"
+            },
+            {
+                "nombre": "Tinta white 1lt",
+                "imagen": "https://i.postimg.cc/mrHvSwNj/tinta-white-1litro.png"
+            },
+            {
+                "nombre": "Poliamida 1lt",
+                "imagen": "https://i.postimg.cc/ZKnks3rG/Poliamida-1lt.png"
+            },
+            {
+                "nombre": "Petfilm 100mts",
+                "imagen": "https://i.postimg.cc/brTz0hf1/Petfilm-100mts.png"
+            }
+        ],
+        "insumos_UV_DTF": [
+            {
+                "photo_general": "https://img.lovepik.com/background/20211021/large/lovepik-background-of-technology-conference-for-color-and-image_400142499.jpg"
+            },
+            {
+                "nombre": "Tinta black 1lt",
+                "imagen": "https://i.postimg.cc/L8vMJyw5/black-uvdtf.png"
+            },
+            {
+                "nombre": "Tinta cyan 1lt",
+                "imagen": "https://i.postimg.cc/d1bbbgkH/cyan-uvdtf.png"
+            },
+            {
+                "nombre": "Tinta magenta 1lt",
+                "imagen": "https://i.postimg.cc/kM83QMzk/magenta-uvdtf.png"
+            },
+            {
+                "nombre": "Tinta yellow 1lt",
+                "imagen": "https://i.postimg.cc/tCj02QH7/yellow-uvdtf.png"
+            },
+            {
+                "nombre": "Tinta white 1lt",
+                "imagen": "https://i.postimg.cc/vHLJKqQh/white-uvdtf.png"
+            }
+        ],
+        "insumos_DTG":[
+            {
+                "photo_general": "https://png.pngtree.com/background/20230410/original/pngtree-splash-ink-color-background-picture-image_2379618.jpg"
+            },
+            {
+                "nombre": "Tinta black 1lt",
+                "imagen": "https://i.postimg.cc/Y9MgdC8b/black-dtg.png"
+            },
+            {
+                "nombre": "Tinta cyan 1lt",
+                "imagen": "https://i.postimg.cc/Vs7MF1tW/cyan-dtg.png"
+            },
+            {
+                "nombre": "Tinta magenta 1lt",
+                "imagen": "https://i.postimg.cc/0jHw5dvB/magenta-dtg.png"
+            },
+            {
+                "nombre": "Tinta yellow 1lt",
+                "imagen": "https://i.postimg.cc/26GWMNKm/yellow-dtg.png"
+            },
+            {
+                "nombre": "Tinta white 1lt",
+                "imagen": "https://i.postimg.cc/3NwGHfsG/white-dtg.png"
+            },
+            {
+                "nombre": "Liquido pretratamiento",
+                "imagen": "https://i.postimg.cc/QxhjBny4/TINTA-PRETRATAMIENTO.png"
+            }
+        ],
+        "insumos_sublimacion": [
+            {
+                "photo_general": "https://w0.peakpx.com/wallpaper/807/821/HD-wallpaper-water-paint-art-colour-explosion-ink-paint-water.jpg"
+            },
+            {
+                "nombre": "Tinta black 1lt",
+                "imagen": "https://i.postimg.cc/g2yKvtxm/tinta-black-1litro.png"
+            },
+            {
+                "nombre": "Tinta cyan 1lt",
+                "imagen": "https://i.postimg.cc/4NsvXb80/tinta-cyan-1litro.png"
+            },
+            {
+                "nombre": "Tinta magenta 1lt",
+                "imagen": "https://i.postimg.cc/SxLwJrqz/tinta-magenta-1litro.png"
+            },
+            {
+                "nombre": "Tinta yellow 1lt",
+                "imagen": "https://i.postimg.cc/J7Zwfmgq/tinta-yellow-1litro.png"
+            },
+            {
+                "nombre": "Papel de sublimaciòn 1.60 cm",
+                "imagen": "https://i.postimg.cc/NMHVkbJ1/papel-90cm.png"
+            },
+            {
+                "nombre": "Papel de sublimaciòn 90 cm",
+                "imagen": "https://i.postimg.cc/SK539HrS/papel-1-60cm.png"
+            }
+        ]
+    }  
+}
