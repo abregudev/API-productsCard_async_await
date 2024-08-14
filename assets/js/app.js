@@ -1,8 +1,17 @@
 
 async function request() {
-    const response = await fetch('./assets/js/db.json')
+    const response = await fetch('../assets/js/db.json')
     const data = await response.json()
-    return data
+    console.log(data);
 }
+console.log(request())
 
-request()
+// const request = async () => {
+//         const response = await fetch("../assets/js/db.json");
+//         const data = await response.json();
+//         console.log(data);
+    
+//         console.log("Código síncrono.");
+//     }
+    
+// request()
